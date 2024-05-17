@@ -1,2 +1,8 @@
 # Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights
-I have finished the Data-Driven Innovations In Supply Chain Management With Qlik Insights project as a part of SmartInternz internship.
+
+#Problem-Statement:
+This project aims to revolutionize supply chain management through data-driven insights using   Qlik. Leveraging advanced analytics, it seeks to optimize logistics, forecasting, and inventory management, enhancing operational efficiency and responsiveness. 
+This transformative project endeavors to reshape the landscape of supply chain management by harnessing the power of Qlik's data-driven insights. Employing cutting-edge analytics, it strives to revolutionize key facets such as logistics, forecasting, and inventory management, with the overarching goal of elevating operational efficiency and responsiveness to new heights.
+
+#Dataset-link:
+https://drive.google.com/file/d/1amf4ZILGuZH_jy_CBbmy1HkB_9HMSFUd/view?usp=sharing
